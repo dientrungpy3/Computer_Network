@@ -1,0 +1,9 @@
+RTSP/1.0 200 OK
+CSeq: 3
+Content-Base: movie.Mjpeg
+Content-Type: application/sdp
+Content-Length: 86
+v=0
+m=video 5009 RTP/AVP 26
+a=control:streamid=246258
+a=mimetype:string;"video/MJPEG"
